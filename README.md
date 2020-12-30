@@ -1,14 +1,20 @@
 # 『리팩터링 2판』(원서: [Refactoring 2nd Edition](https://www.amazon.com/dp/0134757599/))
 
 이 저장소는 『리팩터링 2판』(한빛미디어, 2020)의 지원 사이트입니다.
-[정오표는 여기](https://docs.google.com/document/d/1IP04YcBgwOfBexV1CPK3gLCr2gmQdPTas2pHcqPuCz4/edit#)에서 확인하실 수 있습니다.
+[정오표는 여기](https://docs.google.com/document/d/1IP04YcBgwOfBexV1CPK3gLCr2gmQdPTas2pHcqPuCz4)에서 확인하실 수 있습니다.
 
 ---
 
 ## 새소식
+:white_check_mark: **2020.12.30** - 중요한 오류를 찾아서 공지합니다. [정오표](https://docs.google.com/document/d/1IP04YcBgwOfBexV1CPK3gLCr2gmQdPTas2pHcqPuCz4)에서 '2쇄 오류'를 확인해주세요.
+
 :white_check_mark: **2020.04.01** - 한국어판이 드디어 출간됐습니다.
 
 ---
+
+## 리팩터링을 읽어야 하는 이유
+[드림코딩 by 엘리](https://www.youtube.com/channel/UC_4u-bXaba7yrRz_6x6kb_w) 님이 추천하는 코딩 잘하는 법!
+[![코딩 잘하는 법(개발자답게 코딩하려면?)](http://img.youtube.com/vi/WF_bzlpaW0I/0.jpg)](http://www.youtube.com/watch?v=WF_bzlpaW0I "코딩 잘하는 법(개발자답게 코딩하려면?)")
 
 ## 한국어판 독자를 위한 안내
 
